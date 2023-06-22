@@ -1,5 +1,10 @@
 <b>Scala for Machine Learning</b> Version <b>0.99.2</b> September 7, 2017<br>
 Copyright Patrick Nicolas All rights reserved 2013-2017<br>
+
+![Banner](images/scalaforml.jpeg)
+
+
+
 =================================================================<br>
 <br>
 <a href="#overview">Overview</a><br>
